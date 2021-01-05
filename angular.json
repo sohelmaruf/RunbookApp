@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "runbookapp"
+  "defaultProject": "runbookapp",
+  "cli": {
+    "analytics": "b0eb3622-6c5a-40ed-b66d-6ff90f9a8416"
+  }
 }
